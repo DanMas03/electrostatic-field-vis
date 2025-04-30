@@ -1,0 +1,709 @@
+{
+    "StaticChargeSourceList": [
+        {
+            "Center": {
+                "IsEmpty": false,
+                "X": -1.0,
+                "Y": -1.0
+            },
+            "Radius": 0.125,
+            "Position": {
+                "IsEmpty": false,
+                "X": -1.125,
+                "Y": -0.875
+            },
+            "Color": 0,
+            "ColorSet": [
+                "DarkRed",
+                "Firebrick",
+                "IndianRed",
+                "PeachPuff"
+            ],
+            "ColorBoundaries": [
+                0.0,
+                0.3,
+                0.6,
+                1.0
+            ],
+            "StrengthOfEf": 1.0,
+            "GP": {
+                "FillMode": 0,
+                "PathData": {
+                    "Points": [
+                        {
+                            "IsEmpty": false,
+                            "X": -0.875,
+                            "Y": -1.0
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -0.875,
+                            "Y": -1.0690356
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -0.9309644,
+                            "Y": -1.125
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -1.0,
+                            "Y": -1.125
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -1.0690356,
+                            "Y": -1.125
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -1.125,
+                            "Y": -1.0690356
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -1.125,
+                            "Y": -1.0
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -1.125,
+                            "Y": -0.9309644
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -1.0690356,
+                            "Y": -0.875
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -1.0,
+                            "Y": -0.875
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -0.9309644,
+                            "Y": -0.875
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -0.875,
+                            "Y": -0.9309644
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -0.875,
+                            "Y": -1.0
+                        }
+                    ],
+                    "Types": "AAMDAwMDAwMDAwMDgw=="
+                },
+                "PointCount": 13,
+                "PathTypes": "AAMDAwMDAwMDAwMDgw==",
+                "PathPoints": [
+                    {
+                        "IsEmpty": false,
+                        "X": -0.875,
+                        "Y": -1.0
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -0.875,
+                        "Y": -1.0690356
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -0.9309644,
+                        "Y": -1.125
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -1.0,
+                        "Y": -1.125
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -1.0690356,
+                        "Y": -1.125
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -1.125,
+                        "Y": -1.0690356
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -1.125,
+                        "Y": -1.0
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -1.125,
+                        "Y": -0.9309644
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -1.0690356,
+                        "Y": -0.875
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -1.0,
+                        "Y": -0.875
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -0.9309644,
+                        "Y": -0.875
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -0.875,
+                        "Y": -0.9309644
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -0.875,
+                        "Y": -1.0
+                    }
+                ]
+            }
+        },
+        {
+            "Center": {
+                "IsEmpty": false,
+                "X": 1.0,
+                "Y": -1.0
+            },
+            "Radius": 0.25,
+            "Position": {
+                "IsEmpty": false,
+                "X": 0.75,
+                "Y": -0.75
+            },
+            "Color": 0,
+            "ColorSet": [
+                "DarkRed",
+                "Firebrick",
+                "IndianRed",
+                "PeachPuff"
+            ],
+            "ColorBoundaries": [
+                0.0,
+                0.3,
+                0.6,
+                1.0
+            ],
+            "StrengthOfEf": 2.0,
+            "GP": {
+                "FillMode": 0,
+                "PathData": {
+                    "Points": [
+                        {
+                            "IsEmpty": false,
+                            "X": 1.25,
+                            "Y": -1.0
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 1.25,
+                            "Y": -1.1380712
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 1.1380712,
+                            "Y": -1.25
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 1.0,
+                            "Y": -1.25
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 0.8619288,
+                            "Y": -1.25
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 0.75,
+                            "Y": -1.1380712
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 0.75,
+                            "Y": -1.0
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 0.75,
+                            "Y": -0.8619288
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 0.8619288,
+                            "Y": -0.75
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 1.0,
+                            "Y": -0.75
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 1.1380712,
+                            "Y": -0.75
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 1.25,
+                            "Y": -0.8619288
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 1.25,
+                            "Y": -1.0
+                        }
+                    ],
+                    "Types": "AAMDAwMDAwMDAwMDgw=="
+                },
+                "PointCount": 13,
+                "PathTypes": "AAMDAwMDAwMDAwMDgw==",
+                "PathPoints": [
+                    {
+                        "IsEmpty": false,
+                        "X": 1.25,
+                        "Y": -1.0
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 1.25,
+                        "Y": -1.1380712
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 1.1380712,
+                        "Y": -1.25
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 1.0,
+                        "Y": -1.25
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 0.8619288,
+                        "Y": -1.25
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 0.75,
+                        "Y": -1.1380712
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 0.75,
+                        "Y": -1.0
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 0.75,
+                        "Y": -0.8619288
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 0.8619288,
+                        "Y": -0.75
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 1.0,
+                        "Y": -0.75
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 1.1380712,
+                        "Y": -0.75
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 1.25,
+                        "Y": -0.8619288
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 1.25,
+                        "Y": -1.0
+                    }
+                ]
+            }
+        },
+        {
+            "Center": {
+                "IsEmpty": false,
+                "X": 1.0,
+                "Y": 1.0
+            },
+            "Radius": 0.375,
+            "Position": {
+                "IsEmpty": false,
+                "X": 0.625,
+                "Y": 1.375
+            },
+            "Color": 2,
+            "ColorSet": [
+                "DarkBlue",
+                "RoyalBlue",
+                "SkyBlue",
+                "LightCyan"
+            ],
+            "ColorBoundaries": [
+                0.0,
+                0.4,
+                0.7,
+                1.0
+            ],
+            "StrengthOfEf": -3.0,
+            "GP": {
+                "FillMode": 0,
+                "PathData": {
+                    "Points": [
+                        {
+                            "IsEmpty": false,
+                            "X": 1.375,
+                            "Y": 1.0
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 1.375,
+                            "Y": 0.79289323
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 1.2071067,
+                            "Y": 0.625
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 1.0,
+                            "Y": 0.625
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 0.79289323,
+                            "Y": 0.625
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 0.625,
+                            "Y": 0.79289323
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 0.625,
+                            "Y": 1.0
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 0.625,
+                            "Y": 1.2071067
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 0.79289323,
+                            "Y": 1.375
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 1.0,
+                            "Y": 1.375
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 1.2071067,
+                            "Y": 1.375
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 1.375,
+                            "Y": 1.2071067
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": 1.375,
+                            "Y": 1.0
+                        }
+                    ],
+                    "Types": "AAMDAwMDAwMDAwMDgw=="
+                },
+                "PointCount": 13,
+                "PathTypes": "AAMDAwMDAwMDAwMDgw==",
+                "PathPoints": [
+                    {
+                        "IsEmpty": false,
+                        "X": 1.375,
+                        "Y": 1.0
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 1.375,
+                        "Y": 0.79289323
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 1.2071067,
+                        "Y": 0.625
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 1.0,
+                        "Y": 0.625
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 0.79289323,
+                        "Y": 0.625
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 0.625,
+                        "Y": 0.79289323
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 0.625,
+                        "Y": 1.0
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 0.625,
+                        "Y": 1.2071067
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 0.79289323,
+                        "Y": 1.375
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 1.0,
+                        "Y": 1.375
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 1.2071067,
+                        "Y": 1.375
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 1.375,
+                        "Y": 1.2071067
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": 1.375,
+                        "Y": 1.0
+                    }
+                ]
+            }
+        },
+        {
+            "Center": {
+                "IsEmpty": false,
+                "X": -1.0,
+                "Y": 1.0
+            },
+            "Radius": 0.5,
+            "Position": {
+                "IsEmpty": false,
+                "X": -1.5,
+                "Y": 1.5
+            },
+            "Color": 2,
+            "ColorSet": [
+                "DarkBlue",
+                "RoyalBlue",
+                "SkyBlue",
+                "LightCyan"
+            ],
+            "ColorBoundaries": [
+                0.0,
+                0.4,
+                0.7,
+                1.0
+            ],
+            "StrengthOfEf": -4.0,
+            "GP": {
+                "FillMode": 0,
+                "PathData": {
+                    "Points": [
+                        {
+                            "IsEmpty": false,
+                            "X": -0.5,
+                            "Y": 1.0
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -0.5,
+                            "Y": 0.72385764
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -0.72385764,
+                            "Y": 0.5
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -1.0,
+                            "Y": 0.5
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -1.2761424,
+                            "Y": 0.5
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -1.5,
+                            "Y": 0.72385764
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -1.5,
+                            "Y": 1.0
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -1.5,
+                            "Y": 1.2761424
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -1.2761424,
+                            "Y": 1.5
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -1.0,
+                            "Y": 1.5
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -0.72385764,
+                            "Y": 1.5
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -0.5,
+                            "Y": 1.2761424
+                        },
+                        {
+                            "IsEmpty": false,
+                            "X": -0.5,
+                            "Y": 1.0
+                        }
+                    ],
+                    "Types": "AAMDAwMDAwMDAwMDgw=="
+                },
+                "PointCount": 13,
+                "PathTypes": "AAMDAwMDAwMDAwMDgw==",
+                "PathPoints": [
+                    {
+                        "IsEmpty": false,
+                        "X": -0.5,
+                        "Y": 1.0
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -0.5,
+                        "Y": 0.72385764
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -0.72385764,
+                        "Y": 0.5
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -1.0,
+                        "Y": 0.5
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -1.2761424,
+                        "Y": 0.5
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -1.5,
+                        "Y": 0.72385764
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -1.5,
+                        "Y": 1.0
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -1.5,
+                        "Y": 1.2761424
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -1.2761424,
+                        "Y": 1.5
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -1.0,
+                        "Y": 1.5
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -0.72385764,
+                        "Y": 1.5
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -0.5,
+                        "Y": 1.2761424
+                    },
+                    {
+                        "IsEmpty": false,
+                        "X": -0.5,
+                        "Y": 1.0
+                    }
+                ]
+            }
+        }
+    ],
+    "Probe": {
+        "Center": {
+            "IsEmpty": false,
+            "X": 0.05704126,
+            "Y": -0.99837184
+        },
+        "Radius": 0.09375,
+        "Position": {
+            "IsEmpty": false,
+            "X": -0.03670874,
+            "Y": -0.90462184
+        },
+        "Color": 1,
+        "ColorSet": [
+            "DarkSlateGray",
+            "Silver",
+            "LightGray",
+            "WhiteSmoke"
+        ],
+        "ColorBoundaries": [
+            0.0,
+            0.3,
+            0.6,
+            1.0
+        ],
+        "OrbitalRadius": 1.0
+    },
+    "StaticProbe": null,
+    "IsScenarioStatic": true
+}
