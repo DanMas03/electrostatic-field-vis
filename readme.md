@@ -14,4 +14,5 @@ In [doc]() foder is also available a complete assignment of the work.
 
 # Illustration of the application
 
-![image](https://github.com/user-attachments/assets/cb6d99f7-644a-447d-bfaa-fe4721245ad7)
+![image](https://github.com/user-attachments/assets/f977738b-f146-477d-a3a1-337c835cf11f)
+
